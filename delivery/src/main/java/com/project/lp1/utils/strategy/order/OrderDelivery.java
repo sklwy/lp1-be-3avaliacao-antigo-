@@ -11,5 +11,6 @@ public class OrderDelivery implements OrderStrategy {
     @Override
     public void calculateOrder(BigDecimal value) {
         // TODO Implementation
+        // TESTE COMMIT SMARTGIT LINUX MINT
     }
 }
